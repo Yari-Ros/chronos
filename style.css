@@ -1,0 +1,24 @@
+.title1 {
+    color: red;
+}
+.title2 {
+    color: blue;
+}
+.title-background {
+    background-color: #ccc;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    font-size: 24px;
+    bottom: 0;
+}
+#chronos-image {
+    width: 25%;
+    height: auto;
+    margin-left: 15px;
+    border-radius: 100px;
+}
+body {
+    display: flex;
+    background-image: url("https://news-cdn.softpedia.com/images/news2/remnant-from-the-ashes-is-getting-a-prequel-called-chronos-before-the-ashes-531067-2.jpg");
+    background-repeat: no-repeat;
+}
